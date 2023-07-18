@@ -1,0 +1,8 @@
+D:\Simply Learn\Day7\Day7Assessment9\Day7Assessment9\bin\Debug\Day7Assessment9.exe.config
+D:\Simply Learn\Day7\Day7Assessment9\Day7Assessment9\bin\Debug\Day7Assessment9.exe
+D:\Simply Learn\Day7\Day7Assessment9\Day7Assessment9\bin\Debug\Day7Assessment9.pdb
+D:\Simply Learn\Day7\Day7Assessment9\Day7Assessment9\obj\Debug\Day7Assessment9.csproj.AssemblyReference.cache
+D:\Simply Learn\Day7\Day7Assessment9\Day7Assessment9\obj\Debug\Day7Assessment9.csproj.SuggestedBindingRedirects.cache
+D:\Simply Learn\Day7\Day7Assessment9\Day7Assessment9\obj\Debug\Day7Assessment9.csproj.CoreCompileInputs.cache
+D:\Simply Learn\Day7\Day7Assessment9\Day7Assessment9\obj\Debug\Day7Assessment9.exe
+D:\Simply Learn\Day7\Day7Assessment9\Day7Assessment9\obj\Debug\Day7Assessment9.pdb
