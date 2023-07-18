@@ -33,15 +33,17 @@ namespace Day7Assessment9
                 }
                 if (name.Length < 6)
                 {
-                    throw new ValidationException("user name must have atleast 6 characters");
+                    throw new ValidationException(" name must have atleast 6 characters");
                 }
                 if (password.Length < 8)
                 {
                     throw new ValidationException("password must have atleast 8 characters");
                 }
-                Console.WriteLine("Registration successful!" + name + "" + email + "" + password);
+                else
+                {
+                    Console.WriteLine($"Registration successful! \n  given name is : {name} \t password is :{password}");
+                }
             }
-
             catch (ValidationException ex)
             {
                 Console.WriteLine("Validation Exception!! " + ex.Message);
